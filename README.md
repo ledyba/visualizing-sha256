@@ -1,6 +1,6 @@
 # Visualizing SHA256
 
-Visualizing how bits are mixed together in [SHA256]() using color.
+Visualizing how bits are mixed together in [SHA256](https://en.wikipedia.org/wiki/SHA-2) using color.
 
 [SHA256](https://ja.wikipedia.org/wiki/SHA-2)で入力のビットが混ざりあって最終的な出力になる様子を、色を使って可視化しました。
 
